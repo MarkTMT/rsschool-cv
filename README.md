@@ -1,1 +1,1 @@
-https://MarkTMT.github.io/rsschool-cv/cv
+https://MarkTMT.github.io/rsschool-cv/cv1
