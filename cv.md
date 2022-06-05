@@ -1,4 +1,4 @@
-
+![ My photo ](/myphoto2.png)
 # Serge Korsunov
 
 ***
@@ -21,7 +21,7 @@
 
 ### **Working experience:**
 
-#### _Differnt kinds of... but not in IT yet._
+#### _Different kinds of... but not in IT yet._
 
 ***
 
