@@ -1,4 +1,4 @@
-![ My photo ](/myphoto2.png)
+![ My photo ](/assets/images/myphoto2.png)
 # Serge Korsunov
 
 ***
