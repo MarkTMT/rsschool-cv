@@ -55,7 +55,6 @@ html {
 }
 .main {
   position: relative;
-  border: 1px solid red;
   margin-bottom: 5px;
   padding: 5px;
 }
@@ -88,7 +87,6 @@ p {
   }
 }
 .footer {
-  border: 1px solid blue;
   background-color: gray;
 }
 .footer-link {
