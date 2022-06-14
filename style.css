@@ -30,11 +30,19 @@ html {
   margin: 0 auto;
 }
 .header {
-  border: 1px solid green;
+  background-color: grey;
+  padding-top: 20px;
 }
+.cv#3 {
+  float: left;
+  color: antiquewhite;
+  margin-bottom: 30px;
+  margin-left: 50px;
+}
+
 .nav-list {
   display: flex;
-  justify-content: flex-end;
+  float: right;
   align-items: center;
   list-style: none;
   font-size: large;
@@ -43,10 +51,13 @@ html {
   padding: 0 20px;
   line-height: 50px;
   text-decoration: none;
-  color: aquamarine; 
+  color: antiquewhite; 
 }
 .main {
+  position: relative;
   border: 1px solid red;
+  margin-bottom: 5px;
+  padding: 5px;
 }
 .main-container {
   display: flex;
@@ -55,11 +66,41 @@ html {
 .section {
   width: 50%;
 }
+
+.photo-name {
+  display: inline-block;
+  width: 100%;
+}
+.name {
+  display: inline-block;
+  align-self: flex-end;
+}
+
+p {
+  text-align: left;
+  padding-right: 20px;
+  
+}
 @media (max-width:768px) {
-  .section {
+  .section, .photo-name {
     width: 100%;
+    text-align: center;
   }
 }
 .footer {
   border: 1px solid blue;
+  background-color: gray;
+}
+.footer-link {
+  color: black;
+  text-decoration: none;
+  padding:0 10px;
+}
+.footer-center {
+  position: relative;
+  text-align: center;
+  color: black;
+  font-weight: 700;
+  font-size: larger;
+  padding: 0px;
 }
