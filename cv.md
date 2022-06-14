@@ -1,4 +1,4 @@
-![ My photo ](/assets/images/myphoto2.png)
+![ My photo ](/assets/images/DSC_0329.png)
 # Serge Korsunov
 
 ***
@@ -8,6 +8,7 @@
 ## E-mail: korsunov@gmail.com
 
 ***
+
 
 ### **Education**
 
