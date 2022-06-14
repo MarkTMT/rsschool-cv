@@ -16,3 +16,6 @@
 * {
   box-sizing: border-box;
 }
+.main {
+  border: 1px solid red;
+}
